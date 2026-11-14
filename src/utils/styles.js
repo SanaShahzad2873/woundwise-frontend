@@ -1,0 +1,2 @@
+export const inputClass =
+  'w-full rounded-lg border border-ww-line bg-white px-3 py-2 text-sm text-ww-text placeholder:text-ww-muted/70 focus:border-ww-teal focus:outline-none focus:ring-2 focus:ring-ww-mint/50'

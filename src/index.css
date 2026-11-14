@@ -1,0 +1,21 @@
+@import "tailwindcss";
+
+@theme {
+  /* WoundWise AI brand colors */
+  --color-ww-navy: #0b2545;
+  --color-ww-teal: #0f766e;
+  --color-ww-teal-dark: #0a5550;
+  --color-ww-mint: #5eead4;
+  --color-ww-mint-soft: #e6faf6;
+  --color-ww-bg: #f6f8fa;
+  --color-ww-line: #e3e8ee;
+  --color-ww-text: #1f2d3d;
+  --color-ww-muted: #6b7a8c;
+}
+
+body {
+  margin: 0;
+  background-color: var(--color-ww-bg);
+  color: var(--color-ww-text);
+  font-family: system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+}
